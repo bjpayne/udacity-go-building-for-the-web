@@ -1,10 +1,3 @@
-# UDACITY - Building for the Web
-
-HTTP Fundamentals, net/HTTP Package, Handlers, Serving HTML, Routing
-
-HTTP Fundamentals 1
-
-```go
 package main
 
 import (
@@ -49,4 +42,3 @@ func main() {
 		return
 	}
 }
-```
